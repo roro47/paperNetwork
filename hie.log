@@ -1,0 +1,8 @@
+2019-06-23 09:48:41.492126 [ThreadId 4] - Using stack GHC version
+2019-06-23 09:48:41.769592 [ThreadId 4] - Mismatching GHC versions: Project is 8.6.5, HIE is 8.6.3
+2019-06-23 09:48:41.76983 [ThreadId 4] - Run entered for HIE(hie) Version 0.10.0.0 x86_64 ghc-8.6.3
+2019-06-23 09:48:41.770035 [ThreadId 4] - Current directory:/Users/ryro/Projects/PaperNetwork
+2019-06-23 09:49:30.832995 [ThreadId 4] - Using stack GHC version
+2019-06-23 09:49:31.143712 [ThreadId 4] - Mismatching GHC versions: Project is 8.6.5, HIE is 8.6.3
+2019-06-23 09:49:31.143916 [ThreadId 4] - Run entered for HIE(hie) Version 0.10.0.0 x86_64 ghc-8.6.3
+2019-06-23 09:49:31.144075 [ThreadId 4] - Current directory:/Users/ryro/Projects/PaperNetwork

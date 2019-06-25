@@ -1,0 +1,4 @@
+/                               HomeR      GET
+/add/#Int/#Int                  AddR       GET
+/search/#String                 SearchR    GET
+/reference/#Integer             ReferenceR GET
